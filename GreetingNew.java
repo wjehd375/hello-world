@@ -13,6 +13,6 @@ public class GreetingNew
    public static void main (String[] args)
    {
 	System.out.println("Hello Jeon Jeon Dong Dong!");
-	System.out.println("Hello Park Chanho!");   
+	System.out.println("Hello Park Chanho!!");   
    }
 }
